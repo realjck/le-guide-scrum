@@ -17,3 +17,9 @@ La Definition of Done apporte de la transparence en permettant à chacun une com
 Si la Definition of Done pour un Increment fait partie des standards de l'organisation, toutes les Scrum Teams doivent la suivre au minimum. Si cela ne fait pas partie des standards de l'organisation, la Scrum Team doit créer sa propre Definition of Done qui soit appropriée pour le produit.
 
 Les Developers sont tenus de se conformer à la Definition of Done. Si plusieurs Scrum Teams travaillent ensemble sur un même produit, elles doivent la définir ensemble et s’y conformer.
+
+---
+
+[< Les Artefacts de Scrum](../les-artefacts-de-scrum.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)

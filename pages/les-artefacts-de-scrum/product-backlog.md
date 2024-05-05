@@ -13,3 +13,9 @@ L'Objectif de Produit décrit un état futur du produit qui peut servir de cible
 *Un produit est un vecteur de valeur. Il a une limite claire, des parties prenantes connues, des utilisateurs ou des clients bien définis. Un produit peut être un service, un produit physique ou quelque chose plus abstrait.*
 
 L'Objectif de Produit est l'objectif à long terme de la Scrum Team. Ils doivent atteindre (ou abandonner) un objectif avant de s'attaquer au suivant.
+
+---
+
+[< Les Artefacts de Scrum](../les-artefacts-de-scrum.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)

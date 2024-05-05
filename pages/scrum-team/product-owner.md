@@ -14,3 +14,9 @@ Le Product Owner peut effectuer le travail ci‐dessus ou peut déléguer ce tra
 Pour que les Product Owners réussissent, toute l'organisation doit respecter leurs décisions. Ces décisions sont visibles dans le contenu et dans l'ordre du Product Backlog et, via un Increment inspectable lors de la Sprint Review.
 
 Le Product Owner est une personne et non un comité. Le Product Owner peut représenter les besoins de nombreuses parties prenantes dans le Product Backlog. Ceux qui souhaitent modifier le Product Backlog peuvent le faire en essayant de convaincre le Product Owner.
+
+---
+
+[< Scrum Team](../scrum-team.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)

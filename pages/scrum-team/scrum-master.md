@@ -26,3 +26,9 @@ Le Scrum Master rend service à l'organisation de plusieurs façons :
 - Planifier et apporter conseils sur les implémentations de Scrum au sein de l’organisation ;
 - Faciliter la compréhension de l’approche empirique en environnement complexe des employés et des parties prenantes ; et
 - Contribuer à lever les obstacles qui peuvent se dresser entre les parties prenantes et les Scrum Teams.
+
+---
+
+[< Scrum Team](../scrum-team.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)
