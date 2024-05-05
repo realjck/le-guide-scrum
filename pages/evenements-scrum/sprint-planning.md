@@ -23,3 +23,9 @@ Pour chaque élément sélectionné du Product Backlog, les Developers planifien
 L'Objectif de Sprint, les éléments du Product Backlog sélectionnés pour le Sprint, ainsi que le plan pour les livrer, correspondent à un ensemble appelé le Sprint Backlog.
 
 Le Sprint Planning est limité dans le temps à un maximum de huit heures pour un Sprint d'un mois. Pour les Sprints plus courts, l'événement est généralement plus court.
+
+---
+
+[< Événements Scrum](../evenements-scrum.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)

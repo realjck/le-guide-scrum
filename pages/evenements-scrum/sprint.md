@@ -18,3 +18,9 @@ Les Sprints permettent la prédictibilité en assurant l'inspection et l'adaptat
 Diverses pratiques existent pour évaluer la progression, telles que les courbes du « burn‐down », ou celles du « burn‐up » ou les diagrammes de flux cumulatifs. Bien que leur utilité soit prouvée, ces courbes ne remplacent pas l'importance de l'empirisme. Dans des environnements complexes, une grande part est laissée à l’inconnu. Seul ce qui s'est déjà passé peut être utilisé pour une prise de décision à venir.
 
 Un Sprint peut être annulé si l'Objectif de Sprint devient obsolète. Seul le Product Owner a le pouvoir d'annuler le Sprint.
+
+---
+
+[< Événements Scrum](../evenements-scrum.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)

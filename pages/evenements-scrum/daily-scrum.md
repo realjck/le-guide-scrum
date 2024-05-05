@@ -9,3 +9,9 @@ Les Developers peuvent choisir la structure et les techniques qu’ils souhaiten
 Les Daily Scrums améliorent la communication, aident à identifier les obstacles, favorisent la prise de décision rapide et, par conséquent, éliminent la nécessité de faire d'autres réunions.
 
 Le Daily Scrum n'est pas le seul moment où les Developers sont autorisés à ajuster leur plan. Ils se réunissent souvent tout au long de la journée pour des discussions plus détaillées sur l’adaptation ou la re‐planification du reste du travail du Sprint.
+
+---
+
+[< Événements Scrum](../evenements-scrum.md)
+
+[<< Retour au sommaire](../../LE-GUIDE-SCRUM.md)
