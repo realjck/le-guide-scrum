@@ -53,3 +53,7 @@ En plus des thèmes le « Quoi » et le « Comment » du Sprint Planning, le Gui
 **Simplification globale du langage pour un public plus large**
 
 Le Guide Scrum 2020 s’efforce également d’éliminer les déclarations redondantes et complexes. Toute allusion au monde de l’informatique (par exemple : les tests, les systèmes, la conception, les exigences, etc.) a été supprimée. Le Guide Scrum compte désormais moins de 13 pages.
+
+---
+
+[< Retour au sommaire](../LE-GUIDE-SCRUM.md)

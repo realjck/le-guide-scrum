@@ -13,3 +13,7 @@ Idéalement, tous les événements se tiennent à la même heure et au même lie
 ### [Sprint Review](evenements-scrum/sprint-review.md)
 
 ### [Sprint Retrospective](evenements-scrum/sprint-retrospective.md)
+
+---
+
+[< Retour au sommaire](../LE-GUIDE-SCRUM.md)

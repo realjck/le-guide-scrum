@@ -11,3 +11,7 @@ Scrum combine quatre événements formels pour l'inspection et l'adaptation dans
 ### [Inspection](theorie-scrum/inspection.md)
 
 ### [Adaptation](theorie-scrum/adaptation.md)
+
+---
+
+[< Retour au sommaire](../LE-GUIDE-SCRUM.md)

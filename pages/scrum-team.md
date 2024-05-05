@@ -15,3 +15,7 @@ Toute la Scrum Team est responsable de la création d'un Increment qui ait de la
 ### [Product Owner](scrum-team/product-owner.md)
 
 ### [Scrum Master](scrum-team/scrum-master.md)
+
+---
+
+[< Retour au sommaire](../LE-GUIDE-SCRUM.md)

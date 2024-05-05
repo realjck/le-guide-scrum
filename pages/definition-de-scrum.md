@@ -12,3 +12,7 @@ En bref, Scrum a besoin d'un Scrum Master pour favoriser un environnement où :
 Scrum est simple. Essayez‐le tel qu'il est et, déterminez si sa philosophie, sa théorie et sa structure aident à atteindre les objectifs et à créer de la valeur. Le cadre de travail Scrum est volontairement incomplet, ne définissant que les parties nécessaires pour mettre en œuvre la théorie Scrum. Scrum repose sur l'intelligence collective des personnes qui l'utilisent. Plutôt que de fournir aux gens des instructions détaillées, les règles de Scrum guident leurs relations et leurs interactions.
 
 Divers processus, techniques et méthodes peuvent être employés dans ce cadre de travail. Scrum englobe des pratiques existantes ou les rend inutiles. Scrum rend visible l'efficacité relative du management existant, de l'environnement et des techniques de travail, afin que des améliorations puissent être apportées.
+
+---
+
+[< Retour au sommaire](../LE-GUIDE-SCRUM.md)

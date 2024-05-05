@@ -15,3 +15,7 @@ Ces engagements existent pour renforcer l'empirisme et les valeurs Scrum au sein
 ### [Sprint Backlog](les-artefacts-de-scrum/sprint-backlog.md)
 
 ### [Increment](les-artefacts-de-scrum/increment.md)
+
+---
+
+[< Retour au sommaire](../LE-GUIDE-SCRUM.md)
