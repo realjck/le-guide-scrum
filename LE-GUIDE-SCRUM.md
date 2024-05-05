@@ -10,11 +10,11 @@ Novembre 2020
 
 ## [Théorie Scrum](pages/theorie-scrum.md)
 
-- ### [Adaptation](pages/theorie-scrum/adaptation.md)
+- ### [Transparence](pages/theorie-scrum/transparence.md)
 
 - ### [Inspection](pages/theorie-scrum/inspection.md)
 
-- ### [Transparence](pages/theorie-scrum/transparence.md)
+- ### [Adaptation](pages/theorie-scrum/adaptation.md)
 
 ## [Valeurs Scrum](pages/valeurs-scrum.md)
 
