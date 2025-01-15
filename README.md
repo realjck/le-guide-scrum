@@ -4,4 +4,14 @@ Ken Schwaber & Jeff Sutherland
 
 ### Édition Novembre 2020
 
-_Traduit de la version originale anglaise par Kamel Kaouech._
+_Version française traduite de la version originale anglaise par Kamel Kaouech._
+
+Formatée en markdown.
+
+### Version en une page :
+
+- [./one-page-version/LE-GUIDE-SCRUM.md](./one-page-version/LE-GUIDE-SCRUM.md)
+
+### Version multi-pages :
+
+- [LE-GUIDE-SCRUM.md](LE-GUIDE-SCRUM.md)
