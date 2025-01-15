@@ -14,4 +14,4 @@ Formatée en markdown.
 
 ### Version multi-pages :
 
-- [LE-GUIDE-SCRUM.md](LE-GUIDE-SCRUM.md)
+- [./multi-page-version/LE-GUIDE-SCRUM.md](./multi-page-version/LE-GUIDE-SCRUM.md)
